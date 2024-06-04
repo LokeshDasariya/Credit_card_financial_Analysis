@@ -36,7 +36,7 @@ WoW changes:
 
 ♟️Next Steps/Recommendation: After the analysis, I got businessmen and self-employed are more delinquent. So need to catch the reason behind it.
 
-Github Project:
+Github Project: https://github.com/LokeshDasariya/Credit_card_financial_Analysis/blob/main/README.md
 
 Special thanks to @Rishabh Misra sir, who gives valuable understanding on this project.
 
