@@ -1,5 +1,6 @@
 # Power BI Dashboard Project- Credit transaction and customer weekly report 
 
+Hello LinkedIn community,
 
 Excited to share my another project.
 
@@ -38,6 +39,6 @@ WoW changes:
 
 Github Project: https://github.com/LokeshDasariya/Credit_card_financial_Analysis/blob/main/README.md
 
-Special thanks to @Rishabh Misra sir, who gives valuable understanding on this project.
+Special thanks to @Rishabh Misra sir, For the invaluable guidance in creating this dashboard. Thank you!
 
 Feedback and tips are always appreciated.
